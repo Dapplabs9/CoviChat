@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(12, 154, 236);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#label{
+    color: white;
+    margin-top: 260px;
+}
+#brand{
+    margin-left: 990px;
+    margin-top: 300px;
+}
+#questions_content{
+    margin-left: 1000px;
+    color: white;
+    background-color: rgb(135, 197, 233);
+    border-radius: 10px;
+}
